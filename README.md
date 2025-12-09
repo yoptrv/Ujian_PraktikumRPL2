@@ -32,7 +32,7 @@ The application supports full **CRUD operations**:
 - Klik baris → deskripsi tampil penuh  
 - **Deadline wajib format `yyyy-MM-dd`**
 >Contoh valid:
-,2025-12-31
+2025-12-31
 ,2024-01-01
 
 ---
