@@ -60,6 +60,7 @@ Pastikan sudah terinstall:
 src/main/resources/application.properties
 
 Example:
+```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
 spring.datasource.username=root
 spring.datasource.password=
