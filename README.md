@@ -33,8 +33,8 @@ The application supports full **CRUD operations**:
 - Klik baris → deskripsi tampil penuh  
 - **Deadline wajib format `yyyy-MM-dd`**
 >Contoh valid:
-~2025-12-31
-~2024-01-01
+,2025-12-31
+,2024-01-01
 
 ---
 
@@ -59,12 +59,13 @@ Pastikan sudah terinstall:
 **Then update the DB configuration inside:**
 src/main/resources/application.properties
 
->Example:
+Example:
 spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
 spring.datasource.username=root
 spring.datasource.password=
 spring.jpa.hibernate.ddl-auto=update
-⚠️ **Pastikan nama database sama seperti yang ada di file.**
+ 
+**Pastikan nama database sama seperti yang ada di file.**
 
 
 **STRUKTUR PROJECT:**
