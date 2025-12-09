@@ -69,16 +69,5 @@ spring.jpa.hibernate.ddl-auto=update
 
 
 **STRUKTUR PROJECT:**
-main/
- ├─ ToDoApp.java               → Main class (Spring + Swing launcher)
- ├─ model/
- │    ├─ ToDo.java             → Entity
- │    └─ ModelTableToDo.java   → Table model Swing
- ├─ repository/
- │    └─ ToDoRepository.java
- ├─ service/
- │    └─ ToDoService.java
- ├─ controller/
- │    └─ ToDoController.java
- └─ view/
-      └─ ToDoView.java        → UI Swing
+<img width="452" height="474" alt="image" src="https://github.com/user-attachments/assets/ee7d3d47-4120-47a7-9fc9-c64cc5d711f1" />
+
