@@ -69,5 +69,8 @@ spring.jpa.hibernate.ddl-auto=update
 
 
 **STRUKTUR PROJECT:**
+
+
+
 <img width="452" height="474" alt="image" src="https://github.com/user-attachments/assets/ee7d3d47-4120-47a7-9fc9-c64cc5d711f1" />
 
