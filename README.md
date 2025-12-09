@@ -1,8 +1,7 @@
 # 📌 ToDo Desktop Application  
 ### (Java Swing + Spring Boot + Hibernate + MySQL)
 
-A simple desktop application to manage tasks using a combination of  
-**Java Swing for UI**, **Spring Boot for backend**, and **Hibernate/JPA for ORM**.
+TUGAS UJIAN PRAKTKUM
 
 The application supports full **CRUD operations**:
 - ✅ Create  
@@ -56,7 +55,7 @@ Pastikan sudah terinstall:
 
 ---
 
-**Then update the DB configuration inside:**
+
 src/main/resources/application.properties
 
 
@@ -66,6 +65,8 @@ src/main/resources/application.properties
 
 <img width="452" height="474" alt="image" src="https://github.com/user-attachments/assets/ee7d3d47-4120-47a7-9fc9-c64cc5d711f1" />
 
+
+**Then update the DB configuration inside:**
 Example:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
