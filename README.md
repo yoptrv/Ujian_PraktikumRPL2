@@ -60,11 +60,11 @@ Pastikan sudah terinstall:
 src/main/resources/application.properties
 
 Example:
--spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
--spring.datasource.username=root
--spring.datasource.password=
--spring.jpa.hibernate.ddl-auto=update
- 
+spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
+spring.datasource.username=root
+spring.datasource.password=
+spring.jpa.hibernate.ddl-auto=update
+
 **Pastikan nama database sama seperti yang ada di file.**
 
 
