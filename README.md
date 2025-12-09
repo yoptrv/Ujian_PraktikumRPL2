@@ -59,6 +59,13 @@ Pastikan sudah terinstall:
 **Then update the DB configuration inside:**
 src/main/resources/application.properties
 
+
+**STRUKTUR PROJECT:**
+
+
+
+<img width="452" height="474" alt="image" src="https://github.com/user-attachments/assets/ee7d3d47-4120-47a7-9fc9-c64cc5d711f1" />
+
 Example:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
@@ -69,9 +76,4 @@ spring.jpa.hibernate.ddl-auto=update
 **Pastikan nama database sama seperti yang ada di file.**
 
 
-**STRUKTUR PROJECT:**
-
-
-
-<img width="452" height="474" alt="image" src="https://github.com/user-attachments/assets/ee7d3d47-4120-47a7-9fc9-c64cc5d711f1" />
 
